@@ -1,0 +1,6 @@
+C:\Users\quinnbanet\Desktop\Visual Studios\Program 0\Program 0\bin\Debug\Program 0.exe.config
+C:\Users\quinnbanet\Desktop\Visual Studios\Program 0\Program 0\bin\Debug\Program 0.exe
+C:\Users\quinnbanet\Desktop\Visual Studios\Program 0\Program 0\bin\Debug\Program 0.pdb
+C:\Users\quinnbanet\Desktop\Visual Studios\Program 0\Program 0\obj\Debug\Program 0.csprojResolveAssemblyReference.cache
+C:\Users\quinnbanet\Desktop\Visual Studios\Program 0\Program 0\obj\Debug\Program 0.exe
+C:\Users\quinnbanet\Desktop\Visual Studios\Program 0\Program 0\obj\Debug\Program 0.pdb

@@ -1,0 +1,11 @@
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 3\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 3\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 3\Prog2\bin\Debug\Prog2.exe
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 3\Prog2\bin\Debug\Prog2.pdb
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 3\Prog2\obj\x86\Debug\Program 3.csprojResolveAssemblyReference.cache
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 3\Prog2\obj\x86\Debug\Prog2.AddressForm.resources
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 3\Prog2\obj\x86\Debug\Prog2.LetterForm.resources
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 3\Prog2\obj\x86\Debug\Prog2.Prog3Form.resources
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 3\Prog2\obj\x86\Debug\Prog2.Properties.Resources.resources
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 3\Prog2\obj\x86\Debug\Program 3.csproj.GenerateResource.Cache
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 3\Prog2\obj\x86\Debug\Prog2.ChooseAddressForm.resources

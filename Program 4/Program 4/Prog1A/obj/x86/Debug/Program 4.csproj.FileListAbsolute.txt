@@ -1,0 +1,5 @@
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 4\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 4\Prog1A\obj\x86\Debug\Prog1.pdb
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 4\Prog1A\obj\x86\Debug\Program 4.csprojResolveAssemblyReference.cache
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 4\Prog1A\bin\Debug\Prog1.exe
+C:\Users\quinnbanet\Desktop\Visual Studios\Programs\Program 4\Prog1A\bin\Debug\Prog1.pdb
